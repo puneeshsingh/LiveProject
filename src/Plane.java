@@ -6,4 +6,8 @@ public class Plane {
         this.type=type;
         this.engineType=engineType;
     }
+
+    public String getType(){
+        return this.type;
+    }
 }
