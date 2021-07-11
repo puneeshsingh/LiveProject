@@ -1,5 +1,5 @@
 public class Jet extends Plane{
     public Jet(){
-        super("Jet");
+        super("Jet","Super Sonic");
     }
 }
