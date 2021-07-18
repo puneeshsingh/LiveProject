@@ -12,4 +12,8 @@ public class Jet extends Plane{
     public String getName(){
         return this.name;
     }
+    
+    public String getEngineType(){
+        return "Super Sonic";
+    }
 }
