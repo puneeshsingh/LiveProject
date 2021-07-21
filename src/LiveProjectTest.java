@@ -3,5 +3,6 @@ public class LiveProjectTest {
         System.out.println("Live project");
 
         Plane plane = new Jet("Fighter");
+        System.out.println("Hello");
     }
 }
